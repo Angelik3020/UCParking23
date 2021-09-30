@@ -80,3 +80,4 @@ C:\UCParking23\UCP.App\UCP.App.Frontend\obj\Debug\netcoreapp3.1\UCP.App.Frontend
 C:\UCParking23\UCP.App\UCP.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\UCP.App.Frontend.StaticWebAssets.Manifest.cache
 C:\UCParking23\UCP.App\UCP.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\UCP.App.Frontend.StaticWebAssets.xml
 C:\UCParking23\UCP.App\UCP.App.Frontend\obj\Debug\netcoreapp3.1\UCP.App.Frontend.genruntimeconfig.cache
+C:\UCParking23\UCP.App\UCP.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\Detalles.cshtml.g.cs

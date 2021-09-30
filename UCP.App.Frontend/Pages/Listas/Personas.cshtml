@@ -14,5 +14,11 @@
             <td>@profesor.cubiculo</td>
             <td>@profesor.departamento</td>
             @*Detalles*@
+            <td>
+                <a class="btn btn-primary table-btn" asp-page= "./Detalles" asp-route-profesorId= "@profesor.id">
+                    <i class="fas fa-info-circle" aria-hidden=
+                    "true"></i>
+                </a>
+            </td>
         </tr>
     }
